@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Md5-ImportExport</string>
+    <string name="base_loaded">База загружена</string>
+    <string name="base_not_loaded">База не загружена</string>
+    <string name="imp">Импорт</string>
+    <string name="exp">Экспорт</string>
+</resources>

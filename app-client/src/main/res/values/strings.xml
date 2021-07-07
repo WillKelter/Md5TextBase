@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Md5-BaseSearch</string>
+    <string name="search">Search</string>
+    <string name="notmd5">It\'s not MD5</string>
+    <string name="ismd5">It\'s MD5</string>
+    <string name="noServer">"Server app is not installed "</string>
+    <string name="ok">Ok</string>
+</resources>

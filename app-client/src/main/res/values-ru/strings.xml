@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Md5-BaseSearch</string>
+    <string name="search">Поиск</string>
+    <string name="notmd5">Это не MD5</string>
+    <string name="ismd5">Это MD5</string>
+    <string name="noServer">Приложение-сервер не установленно</string>
+    <string name="ok">Ок</string>
+</resources>

@@ -1,0 +1,4 @@
+include ':aidl'
+include ':md5-importexport'
+include ':app-client'
+rootProject.name = "Md5TextBase"

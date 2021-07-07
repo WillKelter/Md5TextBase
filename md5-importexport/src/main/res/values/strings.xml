@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Md5-ImportExport</string>
+    <string name="base_loaded">Base is loaded</string>
+    <string name="base_not_loaded">Base is not loaded</string>
+    <string name="imp">Import</string>
+    <string name="exp">Export</string>
+</resources>
